@@ -1,0 +1,193 @@
+{
+  "products": [
+    {
+      "category": "Electronics",
+      "name": "SmartWatchX",
+      "description": "A sleek smartwatch with fitness tracking and notification features.",
+      "price": 99.99,
+      "image": "https://example.com/smartwatchx.jpg",
+      "alt": "SmartWatchX",
+      "slug": "smartwatchx"
+    },
+    {
+      "category": "Electronics",
+      "name": "PixelBox VR Headset",
+      "description": "Immerse yourself in virtual reality with this high-resolution headset.",
+      "price": 149.99,
+      "image": "https://example.com/pixelbox.jpg",
+      "alt": "PixelBox VR Headset",
+      "slug": "pixelbox-vr-headset"
+    },
+    {
+      "category": "Electronics",
+      "name": "FusionSound Bluetooth Speaker",
+      "description": "Portable speaker with 360-degree sound for your outdoor adventures.",
+      "price": 79.99,
+      "image": "https://example.com/fusionsound.jpg",
+      "alt": "FusionSound Bluetooth Speaker",
+      "slug": "fusionsound-bluetooth-speaker"
+    },
+    {
+      "category": "Apparel",
+      "name": "UrbanChic Hoodie",
+      "description": "Stylish hoodie made from premium cotton, perfect for casual outings.",
+      "price": 39.99,
+      "image": "https://example.com/urbanchic.jpg",
+      "alt": "UrbanChic Hoodie",
+      "slug": "urbanchic-hoodie"
+    },
+    {
+      "category": "Apparel",
+      "name": "ActiveFlex Yoga Pants",
+      "description": "Comfortable and flexible yoga pants designed for active lifestyles.",
+      "price": 29.99,
+      "image": "https://example.com/activeflex.jpg",
+      "alt": "ActiveFlex Yoga Pants",
+      "slug": "activeflex-yoga-pants"
+    },
+    {
+      "category": "Apparel",
+      "name": "ClassicGentleman Leather Belt",
+      "description": "Genuine leather belt with a timeless design for formal wear.",
+      "price": 49.99,
+      "image": "https://example.com/classicgentleman.jpg",
+      "alt": "ClassicGentleman Leather Belt",
+      "slug": "classicgentleman-leather-belt"
+    },
+    {
+      "category": "Home & Kitchen",
+      "name": "ChefMaster Knife Set",
+      "description": "Professional-grade stainless steel knife set for all your culinary needs.",
+      "price": 89.99,
+      "image": "https://example.com/chefmaster.jpg",
+      "alt": "ChefMaster Knife Set",
+      "slug": "chefmaster-knife-set"
+    },
+    {
+      "category": "Home & Kitchen",
+      "name": "CozyNest Throw Blanket",
+      "description": "Soft and warm throw blanket, ideal for cozy nights on the couch.",
+      "price": 24.99,
+      "image": "https://example.com/cozynest.jpg",
+      "alt": "CozyNest Throw Blanket",
+      "slug": "cozynest-throw-blanket"
+    },
+    {
+      "category": "Home & Kitchen",
+      "name": "BrewMatic Coffee Maker",
+      "description": "Programmable coffee maker with built-in grinder for freshly brewed coffee.",
+      "price": 59.99,
+      "image": "https://example.com/brewmatic.jpg",
+      "alt": "BrewMatic Coffee Maker",
+      "slug": "brewmatic-coffee-maker"
+    },
+    {
+      "category": "Beauty & Personal Care",
+      "name": "GlowGuru Skincare Set",
+      "description": "Complete skincare regimen for radiant and glowing skin.",
+      "price": 79.99,
+      "image": "https://example.com/glowguru.jpg",
+      "alt": "GlowGuru Skincare Set",
+      "slug": "glowguru-skincare-set"
+    },
+    {
+      "category": "Beauty & Personal Care",
+      "name": "LuxeLash Mascara",
+      "description": "Lengthening and volumizing mascara for dramatic eyelashes.",
+      "price": 14.99,
+      "image": "https://example.com/luxelash.jpg",
+      "alt": "LuxeLash Mascara",
+      "slug": "luxelash-mascara"
+    },
+    {
+      "category": "Beauty & Personal Care",
+      "name": "SmoothSilk Hair Straightener",
+      "description": "Ceramic hair straightener for silky smooth hair without damage.",
+      "price": 49.99,
+      "image": "https://example.com/smoothsilk.jpg",
+      "alt": "SmoothSilk Hair Straightener",
+      "slug": "smoothsilk-hair-straightener"
+    },
+    {
+      "category": "Toys & Games",
+      "name": "RoboRacer Remote Control Car",
+      "description": "High-speed remote control car with sleek design and maneuverability.",
+      "price": 59.99,
+      "image": "https://example.com/roboracer.jpg",
+      "alt": "RoboRacer Remote Control Car",
+      "slug": "roboracer-remote-control-car"
+    },
+    {
+      "category": "Toys & Games",
+      "name": "PuzzleMania 1000-piece Jigsaw Puzzle",
+      "description": "Challenging jigsaw puzzle for hours of entertainment.",
+      "price": 19.99,
+      "image": "https://example.com/puzzlemania.jpg",
+      "alt": "PuzzleMania 1000-piece Jigsaw Puzzle",
+      "slug": "puzzlemania-jigsaw-puzzle"
+    },
+    {
+      "category": "Toys & Games",
+      "name": "AdventureQuest Board Game",
+      "description": "Exciting board game where players embark on a thrilling adventure.",
+      "price": 39.99,
+      "image": "https://example.com/adventurequest.jpg",
+      "alt": "AdventureQuest Board Game",
+      "slug": "adventurequest-board-game"
+    },
+    {
+      "category": "Sports & Outdoors",
+      "name": "TrailBlazer Camping Tent",
+      "description": "Spacious and durable camping tent for outdoor enthusiasts.",
+      "price": 149.99,
+      "image": "https://example.com/trailblazer.jpg",
+      "alt": "TrailBlazer Camping Tent",
+      "slug": "trailblazer-camping-tent"
+    },
+    {
+      "category": "Sports & Outdoors",
+      "name": "PowerGrip Sports Water Bottle",
+      "description": "Leak-proof water bottle with a secure grip for athletes.",
+      "price": 9.99,
+      "image": "https://example.com/powergrip.jpg",
+      "alt": "PowerGrip Sports Water Bottle",
+      "slug": "powergrip-sports-water-bottle"
+    },
+    {
+      "category": "Sports & Outdoors",
+      "name": "TrekMaster Hiking Backpack",
+      "description": "Lightweight and ergonomic backpack with ample storage for hiking trips.",
+      "price": 79.99,
+      "image": "https://example.com/trekmaster.jpg",
+      "alt": "TrekMaster Hiking Backpack",
+      "slug": "trekmaster-hiking-backpack"
+    },
+    {
+      "category": "Books & Stationery",
+      "name": "NoveltyNote Hardcover Journal",
+      "description": "Elegant journal with blank pages for creative writing or sketching.",
+      "price": 19.99,
+      "image": "https://example.com/noveltynote.jpg",
+      "alt": "NoveltyNote Hardcover Journal",
+      "slug": "noveltynote-hardcover-journal"
+    },
+    {
+      "category": "Books & Stationery",
+      "name": "LiteraryLegends Box Set",
+      "description": "Collection of classic novels by renowned authors in a beautifully designed box set.",
+      "price": 59.99,
+      "image": "https://example.com/literarylegends.jpg",
+      "alt": "LiteraryLegends Box Set",
+      "slug": "literarylegends-box-set"
+    },
+    {
+      "category": "Books & Stationery",
+      "name": "MindMaze Puzzle Book",
+      "description": "Brain-teasing puzzles and riddles to challenge your mind.",
+      "price": 9.99,
+      "image": "https://example.com/mindmaze.jpg",
+      "alt": "MindMaze Puzzle Book",
+      "slug": "mindmaze-puzzle-book"
+    }
+  ]
+}
